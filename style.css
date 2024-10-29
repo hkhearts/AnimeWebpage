@@ -1,0 +1,39 @@
+*{
+    background-color: black;
+}
+
+h1{
+    color: #00FF9C;
+    text-align: center;
+}
+
+div{
+    color: #B6FFA1;
+}
+
+img{
+    border: 5px solid white;
+    width: 50%;
+    margin-left: 25%;
+    margin-top: 100px;
+}
+
+h2{
+    text-transform: uppercase;
+    text-align: center;
+    color: #BCF2F6;
+}
+
+p{
+    font-size: 20px;
+    text-align: center;
+}
+
+footer{
+    margin-top: 100px;
+    text-align: center;
+}
+
+a{
+    padding: 10px;
+}
